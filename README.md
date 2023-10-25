@@ -1,5 +1,6 @@
 # FutureReadyTalent
 The Azure Cloud Project name is Alternative Entertainment Application.
+There are Three Group Members in this Project 'Masud MuzaffarAli Sayyed', 'Vikram Shinde' and 'Kaif Siraj Khache' with respected mail 'sayyedmasud400@gmail.com', 'shinde.vikram200355@gmail.com' and 'kaifkhache143@gmail.com' .
 The Azure Project .docx file is successfully uploaded on this GitHub Repository.
 Document contains all the steps of how the project is made and deployed in GitHub.
 The Poject is uploaded in the Repository 'FutureReadyTalent'.
