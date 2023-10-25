@@ -1,7 +1,8 @@
 # FutureReadyTalent
+The Azure Cloud Project name is Alternative Entertainment Application.
 The Azure Project .docx file is successfully uploaded on this GitHub Repository.
-Document contains all the steps of how the project is made and deployed
-In GitHub by the name of 'FutureReadyTalent' a Repository is created.
+Document contains all the steps of how the project is made and deployed in GitHub.
+The Poject is uploaded in the Repository 'FutureReadyTalent'.
 In this Repository 'AzureProject.docx' file is uploaded.
 This project contains Azure Services.
 That are: Application Gateway, Traffic Manager, Availability Set, Virtual Machine, Virtual Network.
