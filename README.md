@@ -6,4 +6,4 @@ In this Repository 'AzureProject.docx' file is uploaded.
 This project contains Azure Services.
 That are: Application Gateway, Traffic Manager, Availability Set, Virtual Machine, Virtual Network.
 This project gives a alternative and updated application as per the Priority given.
-Also to give a host name manually for local host for Application checking purpose.
+Also to give a host name manually for local host for Application Testing purpose.
